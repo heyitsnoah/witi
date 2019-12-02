@@ -1,6 +1,6 @@
 ---
 title: Subscribe
-subtitle: Easy subscription to the daily email
+subtitle:
 menus:
   main:
     weight: 4

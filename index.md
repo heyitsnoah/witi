@@ -1,11 +1,11 @@
 ---
-title:
+title: 
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
     content: >-
-      Welcome to the community outpost for WITI, a daily email about interesting things from Noah Brier, Colin Nagy, and friends.
+      Welcome to the community outpost for WITI, a daily email about interesting things from [Noah Brier](https://twitter.com/heyitsnoah), [Colin Nagy](https://twitter.com/cjn), and [friends](/contributors).
   - section_id: subscribe
     component: content_block.html
     type: contentblock

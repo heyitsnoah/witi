@@ -8,8 +8,6 @@ menus:
 layout: page
 ---
 
-A list of the amazing Why is this interesting? contributors:
-
 - [Abe Burmeister](https://twitter.com/abe1x) - [Extinction Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-extinction) (6/19/19)
 - [Amber Finlay ](https://twitter.com/its_amber) - [Good Place Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-good) (5/21/19)
 - [Ana Andjelic](https://twitter.com/andjelicaaa) - [Eurovision Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-monday-april-789) (4/29/19)
