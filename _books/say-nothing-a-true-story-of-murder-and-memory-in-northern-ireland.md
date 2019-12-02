@@ -12,7 +12,7 @@ description: I wrote about the book, _Say Nothing_, in [WITI earlier this year](
   lock and key at Boston College as part of an oral history they began developing
   in the early 2000s. In addition, he got people to talk that had kept their lips
   sealed for a long time. As the book title suggests, these were people that would
-  normally say nothing. One of the [best reads of the year for me](https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland/dp/0385521316).
+  normally say nothing. One of the best reads of the year for me.
 witi_reference_url: https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-norman
 witi_reference_date: 2019-10-23 04:00:00 +0000
 initials: CJN
