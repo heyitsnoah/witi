@@ -57,5 +57,12 @@ fields:
   config:
     required: false
   label: Initials
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: book
 pages:
 - _books/educated-a-memoir.md
