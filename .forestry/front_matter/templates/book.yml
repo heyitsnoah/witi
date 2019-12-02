@@ -65,6 +65,7 @@ fields:
   hidden: true
   default: book
 pages:
+- _books/beyond-weird-why-everything-you-thought-you-knew-about-quantum-physics-is-different.md
 - _books/complexity-a-guided-tour.md
 - _books/the-looming-tower.md
 - _books/seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed.md
