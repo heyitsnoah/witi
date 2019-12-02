@@ -52,5 +52,10 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: initials
+  type: text
+  config:
+    required: false
+  label: Initials
 pages:
 - _books/educated-a-memoir.md
