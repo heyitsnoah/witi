@@ -1,0 +1,51 @@
+---
+title: Contributors
+subtitle: The amazing folks who have contributed to WITI
+menus:
+  main:
+    weight: 4
+    title: Contributors
+layout: page
+---
+
+A list of the amazing Why is this interesting? contributors:
+
+- [Abe Burmeister](https://twitter.com/abe1x) - [Extinction Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-extinction) (6/19/19)
+- [Amber Finlay ](https://twitter.com/its_amber) - [Good Place Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-good) (5/21/19)
+- [Ana Andjelic](https://twitter.com/andjelicaaa) - [Eurovision Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-monday-april-789) (4/29/19)
+- [Ana Andjelic](https://twitter.com/andjelicaaa) - [DTC Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dtc-edition) (11/27/19)
+- [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Climate Tourism Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-climate-0e9) (8/16/19)
+- [Anita Schillhorn van Veen](https://twitter.com/anitasvv ) - [Utopia Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-utopia) (9/20/19)
+- [Atossa Araxia Abrahamian](https://twitter.com/atossaaraxia) - [Arctic Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-arctic) (7/15/19)
+- Ben Dietz - [Skate Gaze Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-skate) (11/7/19)
+- [Ben Young](https://twitter.com/bwagy) - [Prime Video Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-prime) (5/15/19)
+- Brady Moore - [Wayfinding Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-wayfinding) (8/26/19)
+- [Buzz Anderson](https://twitter.com/buzz) - [Seeing Like a State Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-friday-april-0ec) (4/26/19)
+- Chris Papasadero - [Green Beret Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-green) (6/7/19)
+- [David Kienzler](https://twitter.com/DaveKienzler) - [Divestment Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-divestment) (9/5/19)
+- [David Marx ](https://twitter.com/wdavidmarx) - [Dog Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dog-edition) (5/7/19)
+- [Felix Salmon](https://twitter.com/felixsalmon) - [Sackler Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sackler) (5/17/19)
+- [Felix Salmon](https://twitter.com/felixsalmon) - [Brezel Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-brezel) (10/29/19)
+- [Gabe Brosbe](https://twitter.com/brosbeshow) - [Oakley Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-oakley) (7/11/19)
+- [Graydon Gordian](https://twitter.com/MrGordian) - [Westbrook Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-westbrook) (5/24/19)
+- [James Cooper ](https://twitter.com/koopstakov) - [Public Records Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-public) (5/29/19)
+- [James Gross](https://twitter.com/James_Gross) - [Car Safety Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-car-safety) (8/21/19)
+- [Jeff Hughes](https://twitter.com/dabearsblog) - [Tiger Woods Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-tuesday-april-9fb) (4/16/19)
+- [Jerry Neumann](https://twitter.com/ganeumann) - [Disruption Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-disruption) (7/22/19)
+- [Joanne McNeil](https://twitter.com/jomc) - [William Gibson Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-william) (6/10/19)
+- [John Peabody](https://twitter.com/johnpeabody) - [Solo Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-solo) (8/9/19)
+- [Keith O'Brien](https://twitter.com/keithobrien) - [Yuru-chara Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-yuru) (7/8/19)
+- [Larissa Pham ](https://twitter.com/lrsphm) - [Tell Me About Me Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-tell) (6/14/19)
+- [Larissa Pham ](https://twitter.com/lrsphm) - [Influencer Culture Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-influencer-4ba) (9/26/19)
+- [Marcus Moretti](https://twitter.com/mwmoretti) - [Consciousness Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-consciousness) (6/26/19)
+- [Meg Ely](https://twitter.com/Mcely) - [Crime App Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-crime) (7/19/19)
+- [Nick Parish](https://twitter.com/paryshnikov) - [Paquete Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-paquete) (8/20/19)
+- [Noah Chestnut](https://twitter.com/noahchestnut) - [Athletic Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-athletic) (8/14/19)
+- Patrick Anderson - [Vinyl Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vinyl) (7/26/19)
+- [Reess Kennedy](https://twitter.com/reesskennedy) - [Vaporfly 4% Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vaporfly) (11/6/19)
+- [Reilly Brennan](https://twitter.com/reillybrennan) - [Autopilot Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-autopilot) (10/2/19)
+- [Rex Sorgatz](https://twitter.com/fimoculous) - [Eternal Celebrity Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-eternal) (11/1/19)
+- [Rick Webb](https://twitter.com/RickWebb) - [Digital Advertising Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-digital) (11/13/19)
+- [Sam Valenti](https://twitter.com/VALENTI) - [Factory Records Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-factory) (7/24/19)
+- [Steve Bryant](https://twitter.com/stevebryant) - [Maslow Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-monday-april-9ff) (4/22/19)
+- [Tim Hwang](https://twitter.com/timhwang) - [Trade Journal Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-trade) (9/30/19)
