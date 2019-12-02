@@ -11,6 +11,5 @@ description: One of the most famous books in the design world is called The Desi
 witi_reference_url: https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-norman
 witi_reference_date: 2019-10-23 04:00:00 +0000
 initials: NRB
-published: false
 
 ---
