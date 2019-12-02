@@ -15,6 +15,5 @@ description: 'While I’m far away from an expert, my favorite book of the genre
 witi_reference_url: https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wednesday-e0a
 witi_reference_date: 2019-04-24 04:00:00 +0000
 initials: NRB
-published: false
 
 ---
