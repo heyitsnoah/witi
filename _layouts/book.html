@@ -9,7 +9,7 @@ layout: body
     </header><!-- .book-header -->
 
     <div class="book-content">
-      {{ page.description | markdownify }} (<em><a href="{{page.witi_reference_url}}">{{page.initials}}  {{page.witi_reference_date | date: "%m/%d/%Y"}}</a></em>)
+      {{ page.description | markdownify }} (<em><a href="{{page.witi_reference_url}}">{{page.initials}} - {{page.witi_reference_date | date: "%m/%d/%Y"}}</a></em>)
     </div><!-- .book-content -->
   </article><!-- .book -->
 
