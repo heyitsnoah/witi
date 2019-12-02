@@ -65,6 +65,7 @@ fields:
   hidden: true
   default: book
 pages:
+- _books/seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed.md
 - _books/conscious-a-brief-guide-to-the-fundamental-mystery-of-the-mind.md
 - _books/the-looming-tower.md
 - _books/my-sister-the-serial-killer-a-novel.md
