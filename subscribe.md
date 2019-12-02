@@ -1,6 +1,5 @@
 ---
 title: Subscribe
-subtitle: null
 menus:
   main:
     weight: 4
