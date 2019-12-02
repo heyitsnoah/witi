@@ -16,6 +16,5 @@ description: I wrote about the book, _Say Nothing_, in [WITI earlier this year](
 witi_reference_url: https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-norman
 witi_reference_date: 2019-10-23 04:00:00 +0000
 initials: CJN
-published: false
 
 ---
