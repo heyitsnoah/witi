@@ -1,13 +1,12 @@
 ---
-title: Books
+title: Booklist
 subtitle: Reccomended reads from the WITI community
-menus:
+layout: page
+menu:
   main:
     weight: 4
-    title: Books
-layout: page
----
 
+---
 - *[Educated: A Memoir](https://www.amazon.com/Educated-Memoir-Tara-Westover-ebook/dp/B072BLVM83/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=noahbrierdotc-20&linkId=58aad9ad8d90af9de7414d6592b0bace)* by Tara Westover (2018): Nearly every year-end best books list included Tara Westover’s *Educated*, a memoir about growing up in an ultra-religious Mormon household that was completely disconnected from the outside world. She eventually escaped, both physically and mentally, when she went to Brigham Young University (and eventually Cambridge and Harvard). Westover was named to the <a href="http://time.com/5568769/how-we-chose-time-100-2019/">Time 100</a> (with <a href="http://time.com/collection/100-most-influential-people-2019/5567699/tara-westover/">a write up from Bill Gates</a>), <a href="https://news.northeastern.edu/2019/03/24/tara-westover-inspiring-author-of-the-best-selling-memoir-educated-to-deliver-2019-commencement-address/">is giving this year’s commencement address at Northeastern University</a>, and has gotten shout outs from both <a href="https://www.nytimes.com/2018/12/06/books/review/michelle-obama-by-the-book.html">Barack</a> and <a href="https://www.nytimes.com/2018/12/06/books/review/michelle-obama-by-the-book.html">Michelle</a> Obama in the last twelve months. (*[NRB 4/24](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wednesday-e0a)*)
 - *[My Sister, the Serial Killer: A Novel](https://www.amazon.com/dp/B079WNMQ4V/ref=as_li_ss_tl?_encoding=UTF8&btkr=1&linkCode=ll1&tag=noahbrierdotc-20&linkId=4f67981e8450ee6c43df3e67be1920c2)* by Oyinkan Braithwaite (2018): I ripped through My Sister the Serial Killer when I read it earlier this year. It’s the first novel by Oyinkan Braithwaite and, as the title suggests, is a fictional account of a two sisters, one of them with a predilection for murder. I discovered it on [Lit Hub’s favorite books of 2018 writeup](https://lithub.com/lit-hubs-favorite-books-of-2018/). (*[NRB 4/24](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wednesday-e0a)*)
 - *[The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://amzn.to/2sAXcS2) by Ben McIntyre (2018): I loved Ben McIntyre’s The Spy and the Traitor, which was about one of the highest level KGB defectors that worked with MI6 for years. Reads like a real-life John Le Carre novel. (*[CJN 4/24](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wednesday-e0a)*)
