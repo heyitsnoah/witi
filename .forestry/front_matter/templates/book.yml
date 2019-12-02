@@ -42,3 +42,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+pages:
+- _books/educated-a-memoir.md
