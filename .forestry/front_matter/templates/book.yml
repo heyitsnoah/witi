@@ -65,4 +65,5 @@ fields:
   hidden: true
   default: book
 pages:
+- _books/the-design-of-everyday-things.md
 - _books/educated-a-memoir.md
