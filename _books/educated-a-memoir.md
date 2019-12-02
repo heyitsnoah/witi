@@ -11,5 +11,6 @@ description: Nearly every year-end best books list included Tara Westover’s Ed
   shout outs from both Barack and Michelle Obama in the last twelve months. (NRB 4/24)
 witi_reference: https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wednesday-e0a
 witi_reference_date: 2019-04-24 04:00:00 +0000
+year_published: 2018
 
 ---
