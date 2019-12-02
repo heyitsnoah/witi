@@ -8,17 +8,17 @@ layout_style: overflow
 palette: blue
 header:
   title: Why is this interesting?
-  tagline: Header Tagline
+  tagline: A community of the curious
   profile_img: images/why-is-this-interesting.png
   bg: dark
   has_nav: true
   has_social: true
 footer:
-  content: '&copy; All rights reserved.'
+  content: '&copy; Yup yup'
   links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+    - text: Subscribe to Why is this interesting?
+      url: 'https://whyisthisinteresting.substack.com'
+      new_window: false
 sass:
   indentWidth: 4
   style: nested
