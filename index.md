@@ -1,5 +1,5 @@
 ---
-title: 
+title: null
 sections:
   - section_id: hero
     component: hero_block.html
