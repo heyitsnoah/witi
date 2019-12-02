@@ -11,8 +11,6 @@ sections:
   match: "**/*"
   templates:
   - book
-- type: heading
-  label: Headers
 - type: jekyll-pages
   label: Pages
   create: all
