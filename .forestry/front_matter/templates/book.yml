@@ -14,6 +14,16 @@ fields:
     required: false
   label: Author
   description: Book author
+- name: year_published
+  type: number
+  label: Year Published
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: amazon_url
   type: text
   config:
