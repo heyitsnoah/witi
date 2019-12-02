@@ -38,11 +38,11 @@ fields:
     schema:
       format: markdown
   label: Description
-- name: witi_reference
+- name: witi_reference_url
   type: text
   config:
     required: false
-  label: WITI Reference
+  label: WITI Reference URL
 - name: witi_reference_date
   type: datetime
   label: WITI Reference Date
