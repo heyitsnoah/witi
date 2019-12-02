@@ -1,4 +1,44 @@
 ---
 label: Book
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Book title
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: Book author
+- name: amazon_url
+  type: text
+  config:
+    required: false
+  label: Amazon URL
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: witi_reference
+  type: text
+  config:
+    required: false
+  label: WITI Reference
+- name: witi_reference_date
+  type: datetime
+  label: WITI Reference Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
