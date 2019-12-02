@@ -65,6 +65,7 @@ fields:
   hidden: true
   default: book
 pages:
+- _books/my-sister-the-serial-killer-a-novel.md
 - _books/the-devil-and-sherlock-holmes-tales-of-murder-madness-and-obsession.md
 - _books/draft-no-4-on-the-writing-process.md
 - _books/say-nothing-a-true-story-of-murder-and-memory-in-northern-ireland.md
