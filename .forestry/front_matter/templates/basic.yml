@@ -11,5 +11,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- Books/books.md
