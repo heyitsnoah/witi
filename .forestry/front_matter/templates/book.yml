@@ -65,6 +65,7 @@ fields:
   hidden: true
   default: book
 pages:
+- _books/the-looming-tower.md
 - _books/my-sister-the-serial-killer-a-novel.md
 - _books/the-devil-and-sherlock-holmes-tales-of-murder-madness-and-obsession.md
 - _books/draft-no-4-on-the-writing-process.md
