@@ -1,0 +1,51 @@
+---
+layout: body
+---
+
+  <article class="book book-full">
+    <header class="book-header">
+      <h1 class="book-title underline">{{ page.title }}</h1>
+      <p><strong>{{page.author}} ({{page.year_published}})</strong> [<a href="{{page.amazon_url}}">Amazon</a>]</p>
+    </header><!-- .book-header -->
+
+    <div class="book-content">
+      {{ page.description }} (<em><a href="{{page.witi_reference_url}}">{{page.initials}}  {{page.witi_reference_date | date: "%m/%d/%Y"}}</a></em>)
+    </div><!-- .book-content -->
+  </article><!-- .book -->
+
+  <!-- Next/previous book navigation TBD -->
+  <!--
+  <nav class="block read-next">
+    <h2 class="block-title underline">Read Next</h2>
+    <div class="book-feed">
+      <article class="book">
+        <div class="book-inside">
+          <a class="book-thumbnail" href="#"><img src="#" alt="" /></a>
+          <header class="book-header">
+            <h3 class="book-title"><a href="#" rel="bookmark">Previous book Title</a></h3>
+          </header>
+          <div class="book-content">
+            <p>Previous book excerpt...</p>
+          </div>
+          <footer class="book-meta">
+            <time class="published" datetime="">Previous book date</time>
+          </footer>
+        </div>
+      </article>
+      <article class="book">
+        <div class="book-inside">
+          <a class="book-thumbnail" href="#"><img src="#" alt="" /></a>
+          <header class="book-header">
+            <h3 class="book-title"><a href="#" rel="bookmark">Next book Title</a></h3>
+          </header>
+          <div class="book-content">
+            <p>Next book excerpt...</p>
+          </div>
+          <footer class="book-meta">
+            <time class="published" datetime="">Next book date</time>
+          </footer>
+        </div>
+      </article>
+    </div>
+  </nav>
+  -->

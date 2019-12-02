@@ -1,9 +1,15 @@
 ---
 layout: body
 ---
-
+<header class="post-header">
+    <h1 class="post-title underline">{{ page.title }}</h1>
+  </header><!-- .post-header -->
+  <div class="post-subtitle">
+      {{ page.subtitle }}
+  </div><!-- .post-subtitle -->
   <div class="book-feed">
-    {% assign display_books = '/books' | get_pages | sort: 'year_published' | reverse %}
+    {% assign display_books = '/books' | get_pages | sort: 'year_published' %}
+
     {% for book in display_books %}
     <article class="book">
       <div class="book-inside">
@@ -13,11 +19,8 @@ layout: body
           <img class="thumbnail" src="{{ book.thumb_img_path | relative_url }}" alt="{{ book.title }}" />
         </a>
         {% endif %}
-        <header class="book-header">
-          <h2 class="book-title"><a href="{{ book.url | relative_url }}" rel="bookmark">{{ book.title }}</a></h2>
-        </header><!-- .book-header -->
         <div class="book-content">
-          <p>test {{book}}</p>
+          <p><strong><em><a href="{{ book.url | relative_url }}" rel="bookmark">{{ book.title }}</a></em></strong> ({{book.year_published}})</p>
         </div>
         <footer class="book-meta">
           

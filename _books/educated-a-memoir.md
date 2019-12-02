@@ -17,5 +17,6 @@ witi_reference: https://whyisthisinteresting.substack.com/p/why-is-this-interest
 witi_reference_date: 2019-04-24 04:00:00 +0000
 year_published: 2018
 initials: NRB
+layout: book
 
 ---

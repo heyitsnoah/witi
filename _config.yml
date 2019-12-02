@@ -4,6 +4,9 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
+  books:
+    permalink: '/books/:title/'
+    output: true
 layout_style: overflow
 palette: blue
 header:
