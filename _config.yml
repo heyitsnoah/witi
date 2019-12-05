@@ -17,10 +17,10 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: '&copy; Yup yup'
+  content: '&copy; WITI //'
   links:
     - text: Subscribe to Why is this interesting?
-      url: 'https://whyisthisinteresting.substack.com'
+      url: '/subscribe'
       new_window: false
 sass:
   indentWidth: 4
