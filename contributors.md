@@ -41,6 +41,7 @@ layout: page
 - [Nick Parish](https://twitter.com/paryshnikov) - [Paquete Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-paquete) (8/20/19)
 - [Noah Chestnut](https://twitter.com/noahchestnut) - [Athletic Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-athletic) (8/14/19)
 - Patrick Anderson - [Vinyl Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vinyl) (7/26/19)
+- Perry Hewitt - [LinkedIn Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-profile) (12/30/99)
 - [Reess Kennedy](https://twitter.com/reesskennedy) - [Vaporfly 4% Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vaporfly) (11/6/19)
 - [Reilly Brennan](https://twitter.com/reillybrennan) - [Autopilot Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-autopilot) (10/2/19)
 - [Rex Sorgatz](https://twitter.com/fimoculous) - [Eternal Celebrity Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-eternal) (11/1/19)
