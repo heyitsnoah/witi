@@ -65,15 +65,16 @@ fields:
   hidden: true
   default: book
 pages:
-- _books/the-medium-is-the-massage.md
 - _books/beyond-weird-why-everything-you-thought-you-knew-about-quantum-physics-is-different.md
 - _books/complexity-a-guided-tour.md
-- _books/the-looming-tower.md
-- _books/seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed.md
-- _books/say-nothing-a-true-story-of-murder-and-memory-in-northern-ireland.md
-- _books/draft-no-4-on-the-writing-process.md
-- _books/the-devil-and-sherlock-holmes-tales-of-murder-madness-and-obsession.md
 - _books/conscious-a-brief-guide-to-the-fundamental-mystery-of-the-mind.md
-- _books/my-sister-the-serial-killer-a-novel.md
+- _books/draft-no-4-on-the-writing-process.md
 - _books/educated-a-memoir.md
+- _books/my-sister-the-serial-killer-a-novel.md
+- _books/say-nothing-a-true-story-of-murder-and-memory-in-northern-ireland.md
+- _books/seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed.md
 - _books/the-design-of-everyday-things.md
+- _books/the-devil-and-sherlock-holmes-tales-of-murder-madness-and-obsession.md
+- _books/the-goal-a-business-graphic-novel.md
+- _books/the-looming-tower.md
+- _books/the-medium-is-the-massage.md
