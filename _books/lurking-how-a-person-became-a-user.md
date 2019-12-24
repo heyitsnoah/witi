@@ -13,7 +13,7 @@ description: "[_Joanne McNeil_](https://twitter.com/jomc) _(JOMC)_ [_originally 
   we’re made to trade, knowingly or otherwise, for the benefits of the internet—have
   shifted radically beneath us.” You can (and should) pre-order at Amazon._"
 witi_reference_url: https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-william
-witi_reference_date: 2019-06-10 04:00:00 +0000
+witi_reference_date: 2019-06-10T04:00:00.000+00:00
 initials: NRB
 
 ---
