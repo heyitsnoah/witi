@@ -16,6 +16,7 @@ layout: page
 1. Annie Smidt - [Post Rock Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-post) (12/17/19)
 1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Climate Tourism Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-climate-0e9) (8/16/19)
 1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Diamond Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-diamond) (12/11/19)
+1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Feminine Mystique Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-feminine) (1/13/20)
 1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv ) - [Utopia Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-utopia) (9/20/19)
 1. [Atossa Araxia Abrahamian](https://twitter.com/atossaaraxia) - [Arctic Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-arctic) (7/15/19)
 1. Ben Dietz - [Skate Gaze Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-skate) (11/7/19)
