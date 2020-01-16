@@ -31,6 +31,7 @@ layout: page
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Sackler Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sackler) (5/17/19)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Wine Cave Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wine-cave) (12/23/19)
 1. [Gabe Brosbe](https://twitter.com/brosbeshow) - [Oakley Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-oakley) (7/11/19)
+1. [Gianfranco Chicco](https://twitter.com/gchicco) - [Shokunin Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-shokunin) (1/15/20)
 1. [Graydon Gordian](https://twitter.com/mrgordian) - [Mallmann Ediiton](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-mallman) (1/10/20)
 1. [Graydon Gordian](https://twitter.com/MrGordian) - [Westbrook Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-westbrook) (5/24/19)
 1. [James Cooper ](https://twitter.com/koopstakov) - [Public Records Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-public) (5/29/19)
