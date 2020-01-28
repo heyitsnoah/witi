@@ -27,6 +27,7 @@ layout: page
 1. Chris Papasadero - [Green Beret Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-green) (6/7/19)
 1. [David Kienzler](https://twitter.com/DaveKienzler) - [Divestment Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-divestment) (9/5/19)
 1. [David Marx ](https://twitter.com/wdavidmarx) - [Dog Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dog-edition) (5/7/19)
+1. [Edith Zimmerman](https://twitter.com/edithzimmerman) - [Sea Silk Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sea-silk) (1/28/20)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Brezel Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-brezel) (10/29/19)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Sackler Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sackler) (5/17/19)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Wine Cave Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wine-cave) (12/23/19)
