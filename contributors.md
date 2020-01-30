@@ -43,6 +43,7 @@ layout: page
 1. [Joanne McNeil](https://twitter.com/jomc) - [William Gibson Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-william) (6/10/19)
 1. [John Peabody](https://twitter.com/johnpeabody) - [Solo Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-solo) (8/9/19)
 1. [Keith O'Brien](https://twitter.com/keithobrien) - [Yuru-chara Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-yuru) (7/8/19)
+1. [Lance Martin](https://twitter.com/rlancemartin) - [Streelight Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-streetlight) (1/30/20)
 1. [Larissa Pham ](https://twitter.com/lrsphm) - [Tell Me About Me Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-tell) (6/14/19)
 1. [Larissa Pham ](https://twitter.com/lrsphm) - [Influencer Culture Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-influencer-4ba) (9/26/19)
 1. [Marcus Moretti](https://twitter.com/mwmoretti) - [Consciousness Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-consciousness) (6/26/19)
