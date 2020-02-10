@@ -32,7 +32,7 @@ fields:
   config:
     min: '0'
     max: 
-    step: 
+    step: '0.01'
     required: false
 pages:
 - _posts/2019-05-09-gostwyck-single-origin-cut-one-t-shirt.md
