@@ -8,4 +8,5 @@ menus:
 layout: page
 ---
 
+1. [Jessica Graves](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-5ad) (2/10/20)
 1. [Verena von Pfetten](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday) (2/3/20)
