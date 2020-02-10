@@ -1,8 +1,8 @@
 ---
 title: Recommendations
-# menus:
-#   main:
-#     weight: 2
-#     title: Blog
+menus:
+  main:
+    weight: 4
+    title: Recommendations
 layout: blog
 ---
