@@ -24,4 +24,5 @@ fields:
   name: layout
   label: layout
 pages:
+- _posts/barragan-rugs.md
 - _posts/gostwyck-single-origin-cut-one-t-shirt.md
