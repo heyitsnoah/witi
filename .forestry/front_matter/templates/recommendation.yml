@@ -1,0 +1,25 @@
+---
+label: Recommendation
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: thumb_img_path
+  label: thumb_img_path
+- type: file
+  name: content_img_path
+  label: content_img_path
+- type: text
+  name: reco_url
+  label: reco_url
+- type: text
+  name: layout
+  label: layout
