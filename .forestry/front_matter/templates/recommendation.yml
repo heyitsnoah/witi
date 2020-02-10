@@ -23,6 +23,17 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: price
+  type: number
+  label: Price
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '0'
+    max: 
+    step: 
+    required: false
 pages:
 - _posts/barragan-rugs.md
 - _posts/gostwyck-single-origin-cut-one-t-shirt.md
