@@ -1,5 +1,5 @@
 ---
-title: Gostwyck Single Origin Cut One T-Shirt
+title: Outlier Gostwyck Single Origin Cut One T-Shirt
 excerpt: If you haven’t yet, check out the single origin Gostwyck merino t-shirt that
   the Outlier team makes. Incredibly high quality, breathable, and one of the best
   pieces to travel in. Strong recommend. And we have no skin on this game, we just
