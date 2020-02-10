@@ -23,5 +23,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- _posts/field-company-cast-iron-skillet.md
