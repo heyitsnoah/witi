@@ -23,3 +23,5 @@ fields:
 - type: text
   name: layout
   label: layout
+pages:
+- _posts/gostwyck-single-origin-cut-one-t-shirt.md
