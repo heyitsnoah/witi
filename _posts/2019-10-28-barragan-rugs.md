@@ -1,5 +1,5 @@
 ---
-title: Barragan Rugs
+title: txt.ture Barragan Rugs
 excerpt: "“After one year of intense research, plus another year collaborating with
   Casa Luis Barragán —located in the neighborhood of Tacubaya in Mexico City— txt.ure
   team has recovered an extinct technique. This traditional Turkish Knot technique
