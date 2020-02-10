@@ -1,5 +1,5 @@
 ---
-title: Fragments of Iceland
+title: Native Union Cone Cable
 excerpt: Good cables are a luxury, and I like the stuff from Native Union. They use
   really nice materials including fabric, have a variety of lengths and applications,
   and are also experimenting with form factors including this cone cable that even
@@ -7,8 +7,8 @@ excerpt: Good cables are a luxury, and I like the stuff from Native Union. They 
   allow 4 devices to be plugged into that hotel room that strangely only has one outlet.
   (CJN)
 date: 2019-03-27
-thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+thumb_img_path: images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_76136e75-4348-4dec-9ef7-26c70a7178c5_500x500.jpg
+content_img_path: images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_76136e75-4348-4dec-9ef7-26c70a7178c5_500x500.jpg
 layout: post
 
 ---
