@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Recommendations
 # menus:
 #   main:
 #     weight: 2

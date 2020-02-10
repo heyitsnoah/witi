@@ -9,12 +9,12 @@ layout: body
       <div class="post-inside">
         {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
         {% if thumb_img_path_is_not_empty %}
-        <a class="post-thumbnail" href="{{ post.url | relative_url }}">
+        <a class="post-thumbnail" href="{{ post.recco_url }}">
           <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
         </a>
         {% endif %}
         <header class="post-header">
-          <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+          <h2 class="post-title"><a href="{{ post.recco_url }}" rel="bookmark">{{ post.title }}</a></h2>
         </header><!-- .post-header -->
         <div class="post-content">
           <p>{{ post.excerpt }}</p>
