@@ -23,5 +23,18 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: price
+  type: number
+  label: Price
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '0'
+    max: 
+    step: 
+    required: false
 pages:
-- _posts/field-company-cast-iron-skillet.md
+- _posts/2019-11-12-field-company-cast-iron-skillet.md
+- _posts/barragan-rugs.md
+- _posts/gostwyck-single-origin-cut-one-t-shirt.md
