@@ -8,8 +8,8 @@ excerpt: Speaking of coffee, I’m a year-round iced coffee drinker. I just pref
   so I can easily rotate. It’s the easiest setup/cleanup cold brew method I’ve found.
   (NRB)
 date: 2020-02-11 05:00:00 +0000
-thumb_img_path: "/images/61Df5I5a89L._SL1500_.jpg"
-content_img_path: "/images/61Df5I5a89L._SL1500_.jpg"
+thumb_img_path: "/images/CleanShot 2020-02-11 at 12.50.11@2x.png"
+content_img_path: "/images/CleanShot 2020-02-11 at 12.50.11@2x.png"
 reco_url: https://www.amazon.com/Hario-FIC-70-CBR-EX-FIC-70-CBR-Coffee-Maker/dp/B00TF7WSVI/ref=as_li_ss_tl?crid=3GK3NXWHUTITY&keywords=hario+cold+brew&qid=1581360804&sprefix=ipad+pro,aps,159&sr=8-3&th=1&linkCode=ll1&tag=noahbrierdotc-20&linkId=1171f47c7b13a794b1f2832222f39bf8&language=en_US
 layout: post
 price: 27.48
