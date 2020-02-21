@@ -64,3 +64,4 @@ layout: page
 1. [Steve Bryant](https://twitter.com/stevebryant) - [Maslow Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-monday-april-9ff) (4/22/19)
 1. [Tim Hwang](https://twitter.com/timhwang) - [Trade Journal Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-trade) (9/30/19)
 1. [Todd Krieger](https://twitter.com/tkrieg) - [Dead & Company Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dead) (12/2/19)
+1. [Todd Osborn](https://twitter.com/soundmurderer) - [Hidden Noise Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the) (2/21/20)
