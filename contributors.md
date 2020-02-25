@@ -41,6 +41,7 @@ layout: page
 1. [Jeff Hughes](https://twitter.com/hughesreviews) - [Decade in Film Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-decade) (12/20/19)
 1. [Jeff Hughes](https://twitter.com/dabearsblog) - [Tiger Woods Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-tuesday-april-9fb) (4/16/19)
 1. [Jerry Neumann](https://twitter.com/ganeumann) - [Disruption Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-disruption) (7/22/19)
+1. [Joanne McNeil](https://twitter.com/jomc) - [Lost Community Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-lost) (2/25/20)
 1. [Joanne McNeil](https://twitter.com/jomc) - [William Gibson Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-william) (6/10/19)
 1. [John Peabody](https://twitter.com/johnpeabody) - [Solo Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-solo) (8/9/19)
 1. [Keith O'Brien](https://twitter.com/keithobrien) - [Yuru-chara Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-yuru) (7/8/19)
