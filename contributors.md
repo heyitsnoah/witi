@@ -62,6 +62,7 @@ layout: page
 1. [Rick Webb](https://twitter.com/RickWebb) - [Digital Advertising Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-digital) (11/13/19)
 1. [Ryan Anderson](https://twitter.com/gtryan) - [Video Assistant Referee Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-var-edition) (1/7/20)
 1. [Sam Valenti](https://twitter.com/VALENTI) - [Factory Records Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-factory) (7/24/19)
+1. [Sam Valenti](https://twitter.com/VALENTI) - [Legacy Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-legacy) (2/27/20)
 1. [Steve Bryant](https://twitter.com/stevebryant) - [Maslow Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-monday-april-9ff) (4/22/19)
 1. [Tim Hwang](https://twitter.com/timhwang) - [Trade Journal Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-trade) (9/30/19)
 1. [Todd Krieger](https://twitter.com/tkrieg) - [Dead & Company Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dead) (12/2/19)
