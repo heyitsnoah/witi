@@ -23,6 +23,7 @@ layout: page
 1. [Ben Young](https://twitter.com/bwagy) - [Prime Video Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-prime) (5/15/19)
 1. Brady Moore - [Iran Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-iran) (1/8/20)
 1. Brady Moore - [Wayfinding Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-wayfinding) (8/26/19)
+1. Brady Moore & Chris Papasadero - [Go Bag Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-go-bag) (3/3/20)
 1. [Buzz Anderson](https://twitter.com/buzz) - [Seeing Like a State Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-friday-april-0ec) (4/26/19)
 1. Chris Papasadero - [Green Beret Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-green) (6/7/19)
 1. [David Kienzler](https://twitter.com/DaveKienzler) - [Divestment Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-divestment) (9/5/19)
