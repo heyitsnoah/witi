@@ -26,6 +26,7 @@ layout: page
 1. Brady Moore & Chris Papasadero - [Go Bag Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-go-bag) (3/3/20)
 1. [Buzz Anderson](https://twitter.com/buzz) - [Seeing Like a State Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-friday-april-0ec) (4/26/19)
 1. Chris Papasadero - [Green Beret Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-green) (6/7/19)
+1. [Dan Frommer](https://twitter.com/fromedome) - [Online Grocery Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-online) (3/24/20)
 1. [David Kienzler](https://twitter.com/DaveKienzler) - [Divestment Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-divestment) (9/5/19)
 1. [David Marx ](https://twitter.com/wdavidmarx) - [Dog Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dog-edition) (5/7/19)
 1. [Edith Zimmerman](https://twitter.com/edithzimmerman) - [Sea Silk Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sea-silk) (1/28/20)
