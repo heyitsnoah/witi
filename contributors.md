@@ -51,6 +51,7 @@ layout: page
 1. [Larissa Pham ](https://twitter.com/lrsphm) - [Tell Me About Me Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-tell) (6/14/19)
 1. [Larissa Pham ](https://twitter.com/lrsphm) - [Influencer Culture Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-influencer-4ba) (9/26/19)
 1. [Marcus Moretti](https://twitter.com/mwmoretti) - [Consciousness Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-consciousness) (6/26/19)
+1. [Marcus Moretti](https://twitter.com/mwmoretti) - [E.M. Forster Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-em-forster) (3/25/20)
 1. [Meg Ely](https://twitter.com/Mcely) - [Crime App Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-crime) (7/19/19)
 1. [Nick Parish](https://twitter.com/paryshnikov) - [Paquete Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-paquete) (8/20/19)
 1. [Noah Chestnut](https://twitter.com/noahchestnut) - [Athletic Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-athletic) (8/14/19)
