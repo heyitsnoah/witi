@@ -50,6 +50,7 @@ layout: page
 1. [Lance Martin](https://twitter.com/rlancemartin) - [Streelight Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-streetlight) (1/30/20)
 1. [Larissa Pham ](https://twitter.com/lrsphm) - [Tell Me About Me Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-tell) (6/14/19)
 1. [Larissa Pham ](https://twitter.com/lrsphm) - [Influencer Culture Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-influencer-4ba) (9/26/19)
+1. [Lizzie Shupak](https://twitter.com/lizzieshupak) - [Oral Culture Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-oral) (3/4/20)
 1. [Marcus Moretti](https://twitter.com/mwmoretti) - [Consciousness Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-consciousness) (6/26/19)
 1. [Marcus Moretti](https://twitter.com/mwmoretti) - [E.M. Forster Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-em-forster) (3/25/20)
 1. [Meg Ely](https://twitter.com/Mcely) - [Crime App Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-crime) (7/19/19)
