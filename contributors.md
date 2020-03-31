@@ -59,6 +59,7 @@ layout: page
 1. Patrick Anderson - [Vinyl Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vinyl) (7/26/19)
 1. [Perry Hewitt](https://twitter.com/perryhewitt) - [Casket Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-casket) (1/2/20)
 1. [Perry Hewitt](https://twitter.com/perryhewitt) - [LinkedIn Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-profile) (12/6/19)
+1. Praveen Fernandes - [Owl Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-owl-edition) (3/31/20)
 1. Praveen Fernandes - [Stamps Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-stamps) (1/24/20)
 1. [Reess Kennedy](https://twitter.com/reesskennedy) - [Vaporfly 4% Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vaporfly) (11/6/19)
 1. [Reilly Brennan](https://twitter.com/reillybrennan) - [Autopilot Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-autopilot) (10/2/19)
