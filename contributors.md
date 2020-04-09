@@ -31,6 +31,7 @@ layout: page
 1. [David Marx ](https://twitter.com/wdavidmarx) - [Dog Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dog-edition) (5/7/19)
 1. [Edith Zimmerman](https://twitter.com/edithzimmerman) - [Sea Silk Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sea-silk) (1/28/20)
 1. [Eric Mathies](https://twitter.com/ktm_film) - [Competition Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-competition) (2/12/20)
+1. [Eric Mathies](https://twitter.com/ktm_film) - [Information Disorder Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-information-0fd) (4/9/20)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Brezel Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-brezel) (10/29/19)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Sackler Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sackler) (5/17/19)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Wine Cave Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wine-cave) (12/23/19)
