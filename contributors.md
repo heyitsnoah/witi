@@ -66,6 +66,7 @@ layout: page
 1. Praveen Fernandes - [Stamps Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-stamps) (1/24/20)
 1. [Reess Kennedy](https://twitter.com/reesskennedy) - [Vaporfly 4% Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vaporfly) (11/6/19)
 1. [Reilly Brennan](https://twitter.com/reillybrennan) - [Autopilot Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-autopilot) (10/2/19)
+1. [Reilly Brennan](https://twitter.com/reillybrennan) - [Designing Clean Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-90b) (4/14/20)
 1. [Rex Sorgatz](https://twitter.com/fimoculous) - [Eternal Celebrity Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-eternal) (11/1/19)
 1. [Rick Webb](https://twitter.com/RickWebb) - [Digital Advertising Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-digital) (11/13/19)
 1. [Ryan Anderson](https://twitter.com/gtryan) - [Video Assistant Referee Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-var-edition) (1/7/20)
