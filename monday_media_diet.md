@@ -20,3 +20,4 @@ layout: page
 1. [Patrick Radden Keefe](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-b05) (4/13/20)
 1. [Kevin Arnovitz](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-186) (4/20/20)
 1. [Aishwarya Iyer](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-741) (4/27/20)
+1. [Kyle Chayka](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-6bc) (5/4/20)
