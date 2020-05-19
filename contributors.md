@@ -54,6 +54,7 @@ layout: page
 1. [Joanne McNeil](https://twitter.com/jomc) - [Lost Community Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-lost) (2/25/20)
 1. [Joanne McNeil](https://twitter.com/jomc) - [William Gibson Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-william) (6/10/19)
 1. [John Peabody](https://twitter.com/johnpeabody) - [Solo Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-solo) (8/9/19)
+1. [JR Hildebrand](https://twitter.com/JRHildebrand) - [Virtual Racing Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-virtual) (5/19/20)
 1. [Justin Kalifowitz](https://twitter.com/jkalifowitz) - [John Prine Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-john) (4/10/20)
 1. [Keith O'Brien](https://twitter.com/keithobrien) - [Yuru-chara Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-yuru) (7/8/19)
 1. [Lance Martin](https://twitter.com/rlancemartin) - [Streelight Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-streetlight) (1/30/20)
