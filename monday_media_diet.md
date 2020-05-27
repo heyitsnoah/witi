@@ -23,3 +23,4 @@ layout: page
 1. [Kyle Chayka](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-6bc) (5/4/20)
 1. [Robin Sloan](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-9e0) (5/11/20)
 1. [Lilla Cosgrave](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-d82) (5/18/20)
+1. [Caroline Crampton](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-tuesday) (5/26/20)

@@ -48,6 +48,7 @@ layout: page
 1. [Graydon Gordian](https://twitter.com/MrGordian) - [Westbrook Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-westbrook) (5/24/19)
 1. [James Cooper ](https://twitter.com/koopstakov) - [Public Records Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-public) (5/29/19)
 1. [James Gross](https://twitter.com/James_Gross) - [Car Safety Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-car-safety) (8/21/19)
+1. [Jann Schwarz](https://twitter.com/JannSchwarz) - [Bandana Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-bandana) (5/27/20)
 1. [Jeff Hughes](https://twitter.com/hughesreviews) - [Decade in Film Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-decade) (12/20/19)
 1. [Jeff Hughes](https://twitter.com/dabearsblog) - [Tiger Woods Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-tuesday-april-9fb) (4/16/19)
 1. [Jerry Neumann](https://twitter.com/ganeumann) - [Disruption Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-disruption) (7/22/19)
