@@ -66,6 +66,7 @@ layout: page
 1. [Marcus Moretti](https://twitter.com/mwmoretti) - [E.M. Forster Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-em-forster) (3/25/20)
 1. [Mark Slavonia](https://twitter.com/slavonia) - [Home Ballet Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-home-aa5) (4/16/20)
 1. [Meg Ely](https://twitter.com/Mcely) - [Crime App Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-crime) (7/19/19)
+1. [Nick Parish](https://twitter.com/paryshnikov) - [Fermentation Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-paquete) (5/28/20)
 1. [Nick Parish](https://twitter.com/paryshnikov) - [Paquete Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-paquete) (8/20/19)
 1. [Noah Chestnut](https://twitter.com/noahchestnut) - [Athletic Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-athletic) (8/14/19)
 1. Patrick Anderson - [Vinyl Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vinyl) (7/26/19)
