@@ -27,4 +27,5 @@ layout: page
 1. [Aisha Speirs](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-154) (6/1/20)
 1. [Jamin Warren](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-dab) (6/8/20)
 1. [Paul Munford](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-1c7) (6/15/20)
-1. [Steve Bryant](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-7b9) (6/23/20)
+1. [Steve Bryant](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-7b9) (6/22/20)
+1. [Priyanka Mattoo](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-91f) (6/29/20)

@@ -14,6 +14,7 @@ layout: page
 1. [Ana Andjelic](https://twitter.com/andjelicaaa) - [DTC Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dtc-edition) (11/27/19)
 1. [Ana Andjelic](https://twitter.com/andjelicaaa) - [Eurovision Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-monday-april-789) (4/29/19)
 1. Annie Smidt - [Post Rock Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-post) (12/17/19)
+1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Autonomous Zone Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-autonomous-6dc) (6/26/20)
 1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Climate Tourism Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-climate-0e9) (8/16/19)
 1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Diamond Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-diamond) (12/11/19)
 1. [Anita Schillhorn van Veen](https://twitter.com/anitasvv) - [Feminine Mystique Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-feminine) (1/13/20)
