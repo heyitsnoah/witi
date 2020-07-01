@@ -84,6 +84,7 @@ layout: page
 1. [Reilly Brennan](https://twitter.com/reillybrennan) - [Masked Road Trip Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-masked) (6/23/20)
 1. [Rex Sorgatz](https://twitter.com/fimoculous) - [Eternal Celebrity Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-eternal) (11/1/19)
 1. [Rick Webb](https://twitter.com/RickWebb) - [Digital Advertising Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-digital) (11/13/19)
+1. [Robin Sloan](https://twitter.com/robinsloan) - [Breeding Grounds Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-breeding) (6/30/20)
 1. [Ryan Anderson](https://twitter.com/gtryan) - [Video Assistant Referee Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-var-edition) (1/7/20)
 1. [Sam Valenti](https://twitter.com/VALENTI) - [Factory Records Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-factory) (7/24/19)
 1. [Sam Valenti](https://twitter.com/VALENTI) - [Legacy Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-legacy) (2/27/20)
