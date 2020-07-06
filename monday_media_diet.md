@@ -29,3 +29,4 @@ layout: page
 1. [Paul Munford](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-1c7) (6/15/20)
 1. [Steve Bryant](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-7b9) (6/22/20)
 1. [Priyanka Mattoo](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-91f) (6/29/20)
+1. [Lane Florsheim](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-7a9) (7/6/20)

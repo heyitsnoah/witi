@@ -9,6 +9,7 @@ layout: page
 ---
 
 1. [Abe Burmeister](https://twitter.com/abe1x) - [Extinction Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-extinction) (6/19/19)
+1. [Ahmed Al Omran](https://twitter.com/ahmed) - [Saudi Arabia Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-saudi) (7/3/20)
 1. [Amber Finlay ](https://twitter.com/its_amber) - [Good Place Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-good) (5/21/19)
 1. [Ana Andjelic](https://twitter.com/andjelicaaa) - [Anthology Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-anthology) (12/5/19)
 1. [Ana Andjelic](https://twitter.com/andjelicaaa) - [DTC Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-dtc-edition) (11/27/19)
