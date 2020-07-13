@@ -39,6 +39,7 @@ layout: page
 1. [Emanuel Derman](https://twitter.com/EmanuelDerman) - [Being Foreign Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-being) (5/8/20)
 1. [Emanuel Derman](https://twitter.com/EmanuelDerman) - [E Pluribus Unum](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-e-pluribus) (5/15/20)
 1. [Emanuel Derman](https://twitter.com/EmanuelDerman) - [Japan Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-japan) (5/1/20)
+1. [Emanuel Derman](https://twitter.com/EmanuelDerman) - [Leveling Up Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-leveling) (7/9/20)
 1. [Emanuel Derman](https://twitter.com/EmanuelDerman) - [Tetragrammaton Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-tetragrammaton) (6/12/20)
 1. [Eric Mathies](https://twitter.com/ktm_film) - [Competition Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-competition) (2/12/20)
 1. [Eric Mathies](https://twitter.com/ktm_film) - [Information Disorder Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-information-0fd) (4/9/20)
