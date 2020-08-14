@@ -31,3 +31,7 @@ layout: page
 1. [Priyanka Mattoo](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-91f) (6/29/20)
 1. [Lane Florsheim](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-7a9) (7/6/20)
 1. [Mike Baker](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-993) (7/13/20)
+1. [Clémence Polès](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-e37) (7/20/20)
+1. [Erin Allweiss](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-a1e) (7/27/20)
+1. [Michael Sharon](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-eb8) (8/3/20)
+1. [Lydia Nzayo](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-9b6) (8/10/20)
