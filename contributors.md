@@ -84,6 +84,7 @@ layout: page
 1. Patrick Anderson - [Vinyl Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-vinyl) (7/26/19)
 1. [Perry Hewitt](https://twitter.com/perryhewitt) - [Casket Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-casket) (1/2/20)
 1. [Perry Hewitt](https://twitter.com/perryhewitt) - [LinkedIn Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-profile) (12/6/19)
+1. [Perry Hewitt](https://twitter.com/perryhewitt) - [Pushkin Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-pushkin) (5/5/20)
 1. Praveen Fernandes - [Owl Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-owl-edition) (3/31/20)
 1. Praveen Fernandes - [Stamps Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-stamps) (1/24/20)
 1. [Rebeka Foley](https://twitter.com/bekka_april) - [Russian Arctic Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-russian) (7/24/20)
