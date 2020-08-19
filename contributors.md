@@ -77,6 +77,7 @@ layout: page
 1. [Mark Slavonia](https://twitter.com/slavonia) - [Everesting Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-everesting) (7/28/20)
 1. [Mark Slavonia](https://twitter.com/slavonia) - [Home Ballet Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-home-aa5) (4/16/20)
 1. [Meg Ely](https://twitter.com/Mcely) - [Crime App Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-crime) (7/19/19)
+1. Michael Kaufman - [Punk Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-punk) (8/18/20)
 1. [Nadia Eghbal](https://twitter.com/nayafia) - [Open Source Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-open) (8/11/20)
 1. [Nick Parish](https://twitter.com/paryshnikov) - [Fermentation Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-paquete) (5/28/20)
 1. [Nick Parish](https://twitter.com/paryshnikov) - [Paquete Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-paquete) (8/20/19)
