@@ -48,6 +48,7 @@ layout: page
 1. [Eric Mathies](https://twitter.com/ktm_film) - [Information Disorder Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-information-0fd) (4/9/20)
 1. [Eric Mathies](https://twitter.com/ktm_film) - [Pinhole Camera Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-pinhole) (7/21/20)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Brezel Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-brezel) (10/29/19)
+1. [Felix Salmon](https://twitter.com/felixsalmon) - [Pop Art Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-pop-art) (10/9/19)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Sackler Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-sackler) (5/17/19)
 1. [Felix Salmon](https://twitter.com/felixsalmon) - [Wine Cave Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-wine-cave) (12/23/19)
 1. [Gabe Brosbe](https://twitter.com/brosbeshow) - [Interstellar Communication Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-interstellar) (4/3/20)
