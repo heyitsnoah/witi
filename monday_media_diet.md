@@ -35,3 +35,5 @@ layout: page
 1. [Erin Allweiss](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-a1e) (7/27/20)
 1. [Michael Sharon](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-eb8) (8/3/20)
 1. [Lydia Nzayo](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-9b6) (8/10/20)
+1. [Tariq Khayyat](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-225) (8/17/20)
+1. [Vaugn Tan](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-9d9) (8/24/20)
