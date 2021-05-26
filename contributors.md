@@ -8,6 +8,7 @@ menus:
 layout: page
 ---
 
+Markdown
 1. [Abe Burmeister](https://twitter.com/abe1x) - [Extinction Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-extinction) (6/19/19)
 1. [Abe Burmeister](https://twitter.com/abe1x) - [Ventilation Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-ventilation) (8/5/20)
 1. [Adam Wray](https://twitter.com/terminal_avenue) - [Real Brands in Fictional Worlds Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-real) (7/10/20)
@@ -70,6 +71,7 @@ layout: page
 1. [Gabe Brosbe](https://twitter.com/brosbeshow) - [Interstellar Communication Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-interstellar) (4/3/20)
 1. [Gianfranco Chicco](https://twitter.com/gchicco) - [Shokunin Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-shokunin) (1/15/20)
 1. [Graydon Gordian](https://twitter.com/MrGordian) - [Westbrook Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-westbrook) (5/24/19)
+1. [Graydon Gordian](https://twitter.com/mrgordian) - [Brutal Wine Edition](https://whyisthisinteresting.substack.com/p/the-brutal-wine-edition) (5/26/21)
 1. [Graydon Gordian](https://twitter.com/mrgordian) - [Mallmann Ediiton](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-mallman) (1/10/20)
 1. [Graydon Gordian](https://twitter.com/MrGordian) - [Jazz Legend Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-jazz) (4/28/20)
 1. [Graydon Gordian](https://twitter.com/MrGordian) - [Football Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-football) (1/19/21)
