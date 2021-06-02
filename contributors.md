@@ -144,6 +144,7 @@ Markdown
 1. [Ryan Anderson](https://twitter.com/gtryan) - [Semiconductor Edition](https://whyisthisinteresting.substack.com/p/the-semiconductor-edition) (2/18/21)
 1. [Ryan McManus](https://twitter.com/ryantomorrow) - [Shenanigansett Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-shenanigansett) (10/21/20)
 1. [Ryan McManus](https://twitter.com/ryantomorrow) - [Auto Enthusiast Edition](https://whyisthisinteresting.substack.com/p/the-auto-enthusiast-edition) (3/9/21)
+1. [Ryan McManus](https://twitter.com/ryantomorrow) - [Securicode Edition](https://whyisthisinteresting.substack.com/p/the-securicode-edition) (6/2/21)
 1. [Sam Valenti](https://twitter.com/VALENTI) - [Factory Records Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-factory) (7/24/19)
 1. [Sam Valenti](https://twitter.com/VALENTI) - [Legacy Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-legacy?r=qp0h&utm_campaign=post&utm_medium=web&utm_source=twitter) (2/27/20)
 1. [Sam Valenti](https://twitter.com/VALENTI) - [Archivist Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-archivist) (12/8/20)
