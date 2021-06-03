@@ -77,3 +77,4 @@ layout: page
 1. [Ayesha Khan](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-ayesha) (5/10/21)
 1. [Erin Kapor](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-erin-kapor) (5/17/21)
 1. [Casey Lewis](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-casey) (5/24/21)
+1. [Andrew Vontz](https://whyisthisinteresting.substack.com/p/the-tuesday-media-diet-with-andrew) (6/1/21)
