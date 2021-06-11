@@ -94,6 +94,7 @@ Markdown
 1. [Joseph Dana](https://twitter.com/ibnezra) - [Cold Water Swimming Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-cold) (9/22/20)
 1. [Joseph Dana](https://twitter.com/ibnezra) - [COVID and Africa Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-covid) (10/22/20)
 1. [Joseph Dana](https://twitter.com/ibnezra) - [Isis in Africa Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-isis) (8/27/20)
+1. [Josh Reich](https://twitter.com/i2pi) - [CRT Edition](https://whyisthisinteresting.substack.com/p/the-crt-edition) (6/11/21)
 1. [Josh Reich](https://twitter.com/i2pi) - [Micro to Macro Edition](https://whyisthisinteresting.substack.com/p/the-micro-to-macro-edition) (5/18/21)
 1. [JR Hildebrand](https://twitter.com/JRHildebrand) - [Racing Safety Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-racing) (12/15/20)
 1. [JR Hildebrand](https://twitter.com/JRHildebrand) - [Virtual Racing Edition](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-virtual) (5/19/20)
