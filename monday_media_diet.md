@@ -7,6 +7,7 @@ menus:
     title: Monday Media Diet
 layout: page
 ---
+
 1. [Verena von Pfetten](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday) (2/3/20)
 1. [Jessica Graves](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-5ad) (2/10/20)
 1. [Taylor Lorenz](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-monday-e36) (2/17/20)
@@ -78,3 +79,7 @@ layout: page
 1. [Erin Kapor](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-erin-kapor) (5/17/21)
 1. [Casey Lewis](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-casey) (5/24/21)
 1. [Andrew Vontz](https://whyisthisinteresting.substack.com/p/the-tuesday-media-diet-with-andrew) (6/1/21)
+1. [Will McPhail](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-will-mcphail) (6/7/21)
+1. [Regina Pozo Ruiz ](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-regina) (6/14/21)
+1. [Ben Liebmann](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-ben-liebmann) (6/21/21)
+1. [Alex Daly](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-alex-daly) (7/12/21)
