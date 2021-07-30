@@ -82,4 +82,8 @@ layout: page
 1. [Will McPhail](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-will-mcphail) (6/7/21)
 1. [Regina Pozo Ruiz ](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-regina) (6/14/21)
 1. [Ben Liebmann](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-ben-liebmann) (6/21/21)
+1. [Kelly Berold](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-kelly) (6/28/21)
+1. [Craig Mod](https://whyisthisinteresting.substack.com/p/the-tuesday-media-diet-with-craig) (7/6/21)
 1. [Alex Daly](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-alex-daly) (7/12/21)
+1. [Harper Reed](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-harper) (7/19/21)
+1. [Nathaniel Ru](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-nathaniel) (7/26/21)
