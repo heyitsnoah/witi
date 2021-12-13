@@ -103,3 +103,6 @@ layout: page
 1. [Hashem Bajwa](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-hashem) (11/8/21)
 1. [Kavi Moltz](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-kavi-moltz) (11/15/21)
 1. [Spencer Bailey and Andrew Zuckerman](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-spencer) (11/22/21)
+1. [James Cham](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-james) (11/29/21)
+1. [Larissa Zimberoff](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-larissa) (12/6/21)
+1. [Erin Hoagg aka Rare DM](https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-erin-hoagg) (12/13/21)
